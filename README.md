@@ -2,4 +2,4 @@
 
 The Light Rainbow with Flashlight project from App Development with Swift curriculum.
 
-![Image alt](https://github.com/simimi-dot/the-light-rainbow/raw/branch/screenshot1.png
+https://github.com/simimi-dot/the-light-rainbow/raw/branch/screenshot1.png
